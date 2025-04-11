@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-
+<html>
+<head>
 <style>
 table, th, td {
   border: 1px solid;
@@ -14,7 +15,8 @@ table {
 <body>
 
 <h2>Full-width Table</h2>
-
+<table>
+<tr>
 
     <th>Firstname</th>
     <th>Lastname</th>
@@ -23,6 +25,7 @@ table {
     <td>Peter</td>
     <td>Griffin</td>
   </tr>
+<tr>
 
     <td>Lois</td>
     <td>Griffin</td>
